@@ -1,6 +1,6 @@
 # COVID-19 Data Query System for Colombia
 
-Este proyecto es una aplicación en Python que permite consultar datos de COVID-19 de Colombia a través de la API de Datos Abiertos (Socrata). La aplicación filtra los registros por departamento utilizando una consulta SoQL (`$where`) y muestra en pantalla un resumen con las siguientes columnas: Ciudad, Departamento, Edad, Tipo, Estado y País de procedencia.
+Este proyecto es una aplicación en Python que permite consultar datos de COVID-19 de Colombia a través de la API de Datos Abiertos (Socrata). La aplicación filtra los registros por departamento utilizando una consulta SoQL (`$where`) y muestra en pantalla un resumen con las siguientes columnas: Ciudad, Departamento, Edad, Tipo, Estado y País de procedencia (dato no encontrado).
 
 ## Características
 
