@@ -22,9 +22,6 @@ def fetch_data(department, record_limit):
         # Convert results into a Pandas DataFrame
         df = pd.DataFrame.from_records(results)
 
-        # Debug: Print available columns from the API response
-        print("🔍 Available columns in the API response:")
-        print(df.columns.tolist())
 
         # Define required columns:
         # City (ciudad_municipio_nom), Department (departamento_nom),
