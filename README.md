@@ -12,5 +12,4 @@ Este proyecto es una aplicación en Python que permite consultar datos de COVID-
   - **API**: Módulo para la interacción con la API y procesamiento de datos.
   - **Main**: Punto de entrada que integra los módulos anteriores.
 
-## Estructura del Proyecto
 
